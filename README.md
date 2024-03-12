@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Victor!
+- I'm a student at the HSE
 - I’m interested in Machine Learning and Artifical Antelligence
 - telegram: https://t.me/vctrvnn
 - mail: vaninvic05@yandex.ru
