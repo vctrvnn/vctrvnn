@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Victor!
 - I'm a student at HSE
-- I’m interested in Machine Learning and Artifical Antelligence
+- I’m interested in Machine Learning and Artifical Intelligence
 - telegram: https://t.me/vctrvnn
 - mail: vaninvic05@yandex.ru
 - phone number: +79214414552
